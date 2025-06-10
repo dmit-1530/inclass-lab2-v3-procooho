@@ -1,0 +1,42 @@
+/* 
+
+COLOUR PALETTE
+
+Dark Blue Grey  #263238
+Off White       #eceff1
+Anchor Tags     #00acc1
+
+There are no hover or focus states for links.
+
+ADDITIONAL STYLES FOR ARTICLES
+
+border: 1px solid #b0bec5;
+box-shadow: 2px 2px 5px #b0bec5;
+
+*/
+
+/* Universal Styles */
+
+body {
+    color: #263238;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Typography */
+
+h1 {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+/* Main Content */
+
+/* Footer */
+
+footer * {
+    font-size: 0.825em;
+    text-align: center;
+}
+
+/* Media Queries */
